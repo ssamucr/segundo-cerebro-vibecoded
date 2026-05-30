@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.suo
+.DS_Store
+
+# Logs
+*.log
+
+# Distribution
+*.egg
+*.whl
